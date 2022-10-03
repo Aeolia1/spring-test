@@ -11,3 +11,5 @@
 - For Windows user, run the poroject using ```mvn spring-boot:run```
 
 5. Open ```http://localhost:8080/ping``` to view it in your browser.
+
+If you got any questions please dm @Aeolia1.
