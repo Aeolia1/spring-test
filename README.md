@@ -2,8 +2,8 @@
 
 ## Build Instruction
 1. Download and unzip the project.
-2. Open terminal, navigate to the project's folder. 
-3. Download [Maven](https://maven.apache.org/download.cgi) and follow the [installation instructions](https://maven.apache.org/install.html). 
+2. Open a terminal, navigate to the project folder. 
+3. Download [Maven](https://maven.apache.org/download.cgi) (ignore if already setup) and follow the [installation instructions](https://maven.apache.org/install.html). 
 
 4. After that, type the following in a terminal or in a command prompt:
 
