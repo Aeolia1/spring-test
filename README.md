@@ -1,4 +1,4 @@
-# ping pong
+# spring test
 
 ## Build Instruction
 1. Download and unzip the project.
